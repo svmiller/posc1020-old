@@ -21,7 +21,6 @@
 *.ps
 *.dvi
 *.fdb_latexmk
-*.Rmd
 *.R
 
 
