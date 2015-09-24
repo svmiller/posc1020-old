@@ -31,6 +31,7 @@ analysis/dross*
 1-old-fall-2013
 attendance
 gradesheets
+test-bank
 
 # don't ignore the .gitignore file
 !.gitignore
