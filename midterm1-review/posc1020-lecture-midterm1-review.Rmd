@@ -1,0 +1,105 @@
+---
+title: Midterm 1 Review
+subtitle: POSC 1020 -- Introduction to International Relations
+author: Steven V. Miller
+date: 
+fontsize: 10pt
+output:
+  beamer_presentation:
+#    keep_tex: true
+#    toc: true
+    slide_level: 3
+    fig_caption: no
+    includes:
+      in_header: ~/Dropbox/teaching/clemson-beamer-header-simple.txt
+      after_body: ~/Dropbox/teaching/table-of-contents.txt
+---
+
+# Introduction
+### Goal for Today
+
+*Help you prepare for your upcoming midterm.*
+
+# Important Things to Know About Midterm 1
+### When is the First Midterm?
+
+You will take the midterm this Thursday during class.
+
+- The exam will be closed-book, closed-notes.
+- You will have the full 75 minutes.
+
+**Don't be late.**
+
+- I will leave the room if and when the last student has finished the exam early.
+- If you are *that* late to class, you're S.O.L.
+
+**There will be *no* make-ups**.
+
+- Academics are forever intolerant of weak excuses.
+
+### What Will Midterm 1 Look Like?
+
+You will have 50 multiple-choice and true/false questions.
+
+- Essentially: ten questions per chapter.
+
+**Follow instructions and make sure you're reading carefully**.
+
+# The Material on Midterm 1
+### The Material on the Midterm 1
+
+Know the following from Appendix B and associated readings.
+
+- What is a theory?
+- What are independent/dependent variables?
+- What's wrong with Morgenthau's theory of power?
+- How do we evaluate assumptions?
+- First principle of wing-walking
+- How to do inference (i.e. don't select on the dependent variable, and others).
+- Necessity and sufficiency
+- Falsifiability
+- Parsimony
+- How to interpret a regression table
+
+### Material from the Introduction Chapter
+
+- Neorealism' argument about state behavior
+- Motivations of leaders in the author's strategic approach
+- Leader behavior in a strategic perspective
+- The four puzzles of international politics
+- Power in a strategic perspective
+
+### Material from Chapter 1
+
+- What best explains leader tenure in office?
+- Winning coalition and selectorate
+- Public goods and private goods
+- What a loyalty norm communicates
+
+### Material from Chapter 2
+
+- The assumptions and predictions of median voter theorem
+- Ideal points and single-peaked preferences
+- Circular indifference curves and win sets
+- The bargaining space (from our Iran-U.S. example in the chapter)
+
+### Material from Chapter 3
+
+- Nash equilibrium
+- Subgame perfection
+- Dominant strategy
+
+Note: I'm going to give you a simple normal form game and reproduce the Iran-U.S. strategic interaction game from the book.
+
+- Know how to solve these games.
+
+# Conclusion
+### Conclusion
+
+The midterm is on Thursday.
+
+- There are **no** make-ups.
+- Don't forget, and don't be late.
+
+See you then.
+

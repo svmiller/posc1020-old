@@ -32,6 +32,7 @@ analysis/dross*
 attendance
 gradesheets
 test-bank
+midterm1
 
 # don't ignore the .gitignore file
 !.gitignore
