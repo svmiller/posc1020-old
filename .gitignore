@@ -33,6 +33,7 @@ attendance
 gradesheets
 test-bank
 midterm1
+bdm-resources
 
 # don't ignore the .gitignore file
 !.gitignore
