@@ -35,6 +35,7 @@ test-bank
 midterm1
 bdm-resources
 student-drafts
+midterm2
 
 # don't ignore the .gitignore file
 !.gitignore
