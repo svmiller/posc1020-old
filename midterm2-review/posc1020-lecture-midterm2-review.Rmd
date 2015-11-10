@@ -1,0 +1,94 @@
+---
+title: Democratic Peace Theory and the Selectorate Peace
+subtitle: POSC 1020 -- Introduction to International Relations
+author: Steven V. Miller
+institute: Department of Political Science
+titlegraphic: /Dropbox/teaching/clemson-academic.png
+date: 
+fontsize: 10pt
+output:
+ beamer_presentation:
+    template: ~/Dropbox/miscelanea/svm-r-markdown-templates/svm.latex.beamer.template
+#    keep_tex: true
+# toc: true
+ slide_level: 3
+---
+
+
+# Introduction
+### Goal for Today
+
+*Help you prepare for your upcoming midterm.*
+
+# Important Things to Know About Midterm 2
+### When is the Second Midterm?
+
+You will take the midterm this Thursday during class.
+
+- The exam will be closed-book, closed-notes.
+- You will have the full 75 minutes.
+
+**Don't be late.**
+
+- I will leave the room if and when the last student has finished the exam early.
+- If you are *that* late to class, you're S.O.L.
+
+**There will be *no* make-ups**.
+
+- Academics are forever intolerant of weak excuses.
+
+### What Will Midterm 2 Look Like?
+
+You will have 40 multiple-choice and true/false questions.
+
+- *Bring no. 2 pencils!*
+    - Bring multiple if you fear you'll break one.
+
+**Follow instructions and make sure you're reading carefully**.
+
+# The Material on Midterm 2
+### The Material on the Midterm 2
+
+You'll have 12 questions from Chapter 4.
+
+- Why are wars ex post inefficient?
+- Know basic terms/topics of neorealism. Including:
+	- (In)essential actors
+	- Bipolarity and multipolarity
+	- Power and security
+
+Importantly: know how we evaluated neorealism's predictions.
+
+### Material from Chapter 5
+
+You'll have 17 questions from Chapter 5.
+
+- *Know the IIG game*, including:
+	- The assumptions and preference restrictions
+	- The difference between the neorealist and domestic politics version
+- Resurrection and pacific dove hypotheses
+- Arms races and war
+
+### Material from Chapter 6
+
+You'll have 11 questions from Chapter 6.
+
+- The "core" of democratic peace
+- Norms and institutions (and their problems)
+- The "selectorate peace"
+
+
+# Conclusion
+### Conclusion
+
+The midterm is on Thursday.
+
+- There are **no** make-ups.
+- Don't forget, and don't be late.
+
+**Bring no. 2 pencils!**
+
+- Bring multiple if you fear you'll break one.
+
+See you then.
+

@@ -34,6 +34,7 @@ gradesheets
 test-bank
 midterm1
 bdm-resources
+student-drafts
 
 # don't ignore the .gitignore file
 !.gitignore
