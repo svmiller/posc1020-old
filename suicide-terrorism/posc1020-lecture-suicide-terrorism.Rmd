@@ -1,0 +1,378 @@
+---
+title: What Do We Know About Suicide Terrorism?
+subtitle: POSC 1020 -- Introduction to International Relations
+author: Steven V. Miller
+institute: Department of Political Science
+titlegraphic: /Dropbox/teaching/clemson-academic.png
+date: 
+fontsize: 10pt
+output:
+ beamer_presentation:
+    template: ~/Dropbox/miscelanea/svm-r-markdown-templates/svm.latex.beamer.template
+#    keep_tex: true
+# toc: true
+ slide_level: 3
+---
+
+
+# Introduction
+### Goal for Today
+
+1. *Argue that an extreme form of terrorism (suicide terrorism) is rational/strategic.*
+2. *Highlight how inferential fallacies and research design flaws can preclude a thorough understanding of the causes of suicide terrorism.*
+
+### Terrorism and International Security
+
+Terrorism is actually a familiar problem for national security.
+
+- Anarchist groups in the 19th century.
+	- Assassination of Alexander II in Russia, William McKinley in the U.S.
+- Ku Klux Klan in the United States
+- Irish Republican Brotherhood/Army
+- Armenian Revolutionary Federation in the Ottoman Empire
+
+These are just a few examples.
+
+### Terrorism and International Security
+
+We do observe an increase of terrorism after WWII.
+
+1. Liberation movements
+2. Revolutionary movements
+
+1968 is typically held as the hallmark year for terrorism.
+
+- El Al Flight 426
+- El Al Flight 253
+
+
+### The Problem of Suicide Terrorism
+
+![U.S. marines searching for victims in Beirut eight days after an attack that killed 241 American soldiers on October 23, 1983.](beirut-barracks-bombing.jpg)
+
+We observe the first suicide terror attack in the 1983 Beirut barracks bombing.
+
+### The Problem of Suicide Terrorism
+
+Suicide terrorism increases from there.
+
+- Hamas, Hezbollah vs. Israel
+- Tamil Tigers vs. Sri Lanka
+- PKK vs. Turkey
+- Al Qaeda vs. the United States
+- Chechnyan rebels vs. Russia
+
+By 9/11, suicide terrorism was increasing as other forms of terrorism were decreasing.
+
+### How Do We Explain Suicide Terrorism?
+
+It's easy to assume this "irrational" behavior is motivated by religious fundamentalism in the Middle East.
+
+- However, the Tamil Tigers committed more suicide terror attacks than any other group.
+
+It's even more difficult to explain suicide attacks by individual-level factors.
+
+- Suicide terrorists run the gamut of young/old, rich/poor, educated/uneducated, etc.
+
+# Pape's Argument
+### Pape's Argument
+
+Suicide terrorism has a "strategic logic".
+
+- It's instrumental behavior aimed at coercing a target government to change policy.
+- It's an extreme form of Schelling's "rationality of irrationality".
+
+### Pape's Argument
+
+Pape argues five findings follow from his "universe" of suicide terror attacks (1980-2001).
+
+1. Suicide terrorism is "strategic", and clusters into campaigns.
+2. Goal: coerce democracies to make concessions on "occupied territories".
+3. Terror groups have learned it gets results.
+4. Results are limited to moderate concessions on inconsequential security interests.
+5. Preventing suicide terrorism means reducing terror group's confidence in ability to execute attack.
+
+### Distinguishing Suicide Terrorism
+
+We observe three common forms of terrorism.
+
+1. Demonstrative terrorism
+2. Destructive terrorism
+3. Suicide terrorism
+
+### Distinguishing Suicide Terrorism
+
+Demonstrative terrorism:
+
+- Aimed at publicity (to recruit and/or gain sympathy).
+- Common forms: hostage-taking, hijacking, bombings announced in advance.
+- Examples: ETA, Brigate Rosse
+
+Destructive terrorism:
+
+- Seeks to coerce opponents and galvanize community.
+- Common forms: bombings, assassinations, indiscriminate killing
+- Examples: FARC, IRA
+
+### Distinguishing Suicide Terrorism
+
+Suicide terrorism is the most extreme form of terrorism.
+
+- Imposes most costs on target group.
+- Unique in that the attacker is not expected to survive.
+- Goal: kill the most people in the target population.
+- Runs the risk of alienating terror group's own community.
+
+## The Coercive Logic of Suicide Terrorism
+### Suicide Terrorism's Coercive Logic
+
+Suicide terrorism is a coercive strategy.
+
+- Separate from interstate coercion.
+- The terror group is usually weaker in military capabilities.
+
+Terror groups try to raise *costs* of target state's policy.
+
+- Terror groups typically have no chance at military conquest.
+
+Suicide terror magnifies coercive effects of "punishment" in three ways.
+
+1. Suicide attacks are generally more destructive.
+2. Effective signal that more attacks will come.
+3. Willingness to die signals high motivation by terror group.
+
+## The Record of Suicide Terrorism, 1983-2001
+### The Record of Suicide Terrorism
+
+Three findings emerge from 1983-2001:
+
+1. Suicide attacks are non-random and cluster into coherent campaigns.
+2. Suicide attacks have nationalist goals.
+3. Suicide attacks target democracies.
+
+### The Timing of Suicide Terrorism
+
+Suicide terror attacks are not sporadic and cluster in "campaigns".
+
+- Campaigns include: Kurdish independence, Chechnyan independence, etc.
+- 95% (179 of 188) of terror attacks were part of overall campaigns.
+
+The *suspension* of suicide terror campaigns is also important.
+
+- Terror groups call them off during negotiations or after concessions.
+
+### The Goals of Suicide Terrorism
+
+Pape finds **all** suicide terror campaigns have nationalist goals.
+
+- Terror groups want target state removed from "homeland", or independence of territory.
+- In other words: this is a necessary condition.
+
+Pape argues that the goals are not unrealistic.
+
+- They reflect self-determination aspirations in the community.
+- They also enjoy a lot of support (e.g. Hamas).
+
+### The Targets of Suicide Terrorism
+
+Every target of suicide terror has been a democracy.
+
+- Counts Sri Lanka and Russia as democracies.
+
+This hinges on terror group perceptions.
+
+- Democracies are considered "soft" and more constrained in their policies.
+
+The PKK illustrates this nicely.
+
+- Iraq had been more brutal in its treatment of Kurds, but all suicide terror campaigns were directed at Turkey.
+
+### The Success of Suicide Terrorism
+
+Terror groups use suicide terror because they've learned it works.
+
+- Every group that uses it first tried something else.
+
+Al Qaeda, for example, prides itself on its "terrorist manual" and the importance of learning.
+
+### The Success of Suicide Terrorism
+
+Of 11 campaigns, six resulted in concessions by target side.
+
+- U.S., France withdrew from Lebanon in 1983.
+- Israel withdrew from Lebanon in 1985
+- Sri Lanka started negotiations in 1994.
+- Three other "vague" successes were Hamas campaigns vs. Israel.
+
+### The Limits of Suicide Terrorism
+
+However, suicide terror is *unlikely* to achieve more ambitious goals.
+
+- For core security interests, states are willing to bear high costs.
+
+The observed successes have been over minor interests for the target state.
+
+- U.S./French mission to Lebanon was a humanitarian mission.
+- Israel's 1985 withdrawal from Lebanon came with a security buffer.
+	- Israel was unaffected by a subsequent campaign in 1986.
+
+Sri Lanka has been remarkably stubborn in its dealings with the Tamil Tigers.
+
+- It actually defeated them in 2009.
+
+### Pape's Policy Implications
+
+Pape concludes with some policy advice for dealing with suicide terrorism.
+
+- Offensive counterterror campaigns (e.g. Israel) are ineffective.
+- Concessions won't work unless they're total concessions.
+- Partial, limited concessions are dangerous for target states.
+- Offense is limited; defense is critical for a target state.
+- Strategies of military conquest/occupation (e.g. U.S.) just exacerbate the problem.
+
+# Research Design and Inferential Fallacies
+### Ashworth et al.'s (2008) Critique
+
+Ashworth et al. (2008) argue Pape's conclusions cannot follow from his data.
+
+1. Pape selects on the dependent variable.
+2. He cannot elucidate the causes of suicide terrorism.
+3. His data are consistent with a strong association or weak non-association between foreign occupation and suicide terrorism.
+
+## The Problem of Selection Bias
+### Selection Bias in Suicide Terrorism
+
+Pape says he collected the "universe" of suicide terror attacks from 1983-2001. What could be the problem?
+
+- Pape selects on observed suicide terrorism and attributes causality afterward.
+- Causal statements must consider *X* $\to$ *Y* **and** *X* $\to$ ~*Y*.
+- However, Pape doesn't code ~*Y*!
+
+We can say nothing of how territorial occupations by a democracy increase the risk of a terror group using suicide terrorism.
+
+- i.e. we don't see these problems in Germany or South Korea, for example.
+
+## Attributable Risk
+### The Issue of Attributable Risk
+
+This matters because we are interested in the *risk* of suicide terrorism, given these antecedent conditions of foreign occupation.
+
+- This is, in fact, a conditional probability problem.
+
+Let's introduce some terms:
+
+- *O*: an act of resistance is motivated by occupation of territory.
+- ~*O*: an act of resistance is not motivated by occupation of territory.
+- *S*: act of resistance is suicide terrorism.
+- ~*S*: act of resistance is not suicide terrorism.
+
+### Attributable Risk
+
+Pape's argument of statistical association is of **attributable risk**:
+
+- *AR*(*S* | *O*) = *Pr*(*S* | *O*) - *Pr*(*S* | ~*O*)
+
+In short: Pape is policy prescriptions follow if *Pr*(*S* | *O*) > *Pr*(*S* | ~*O*).
+
+- Otherwise, there is no increased risk of suicide terrorism *given* an occupation of territory.
+
+### Attributable Risk
+
+We need estimates of *Pr*(*S* | *O*) and *Pr*(*S* | ~*O*).
+
+- Our best way to do this would be a large random sample of all terrorist attacks.
+
+However, Pape's data do not provide this.
+
+- He selects only on suicide terror attacks.
+- We know only *Pr*(*O* | *S*) and *Pr*(~*O* | *S*).
+
+### Attributable Risk
+
+Bayes rule can help us. This gives us:
+
+$$
+\Pr(S|O)=\frac{\Pr(O|S)\Pr(S)}{\Pr(O)}
+$$
+
+And:
+
+$$
+\Pr(S|\sim O)= \frac{\Pr(\sim O|S)\Pr(S)}{\Pr(\sim O)}
+$$
+
+### Attributable Risk
+
+This gives us this attributable risk formula:
+
+$$
+AR(S|O) =\frac{\Pr(S)[\Pr(O|S) - \Pr(O)]}{\Pr(O)(1 - \Pr(O))}
+$$
+
+We need: *Pr*(*S*), *Pr*(*O*), and *Pr*(*O* | *S*).
+
+- We can get *Pr*(*S*) and *Pr*(*O* | *S*) from Table 1.
+- However, we still need the probability of occupation by a target state.
+
+### The Limits of What Pape Can Tell Us
+
+Bayes' theorem allows for the derivation of *Pr*(*O*):
+
+$$
+\Pr(O) = \Pr(O|S)\Pr(S) + \Pr(O|\sim S)\Pr(\sim S)
+$$
+
+...and now we're stuck. We can't know *Pr*(*O* | ~*S*) because Pape selected on observed suicide terror attacks!
+
+- Any value of *Pr*(*O*) between 178/4155 (.042) and 4145/4155 (.997) would be consistent with Pape's data.
+
+As a result, we cannot know about the risk of suicide terrorism for a state's occupation of territory.
+
+## Pape's Response
+### Pape's Response
+
+Read my book!
+
+- ...and that's basically it.
+
+Pape quote-dumps from his book and reiterates two points:
+
+1. There's no "sample bias" (sic) in collecting a "universe".
+2. He's arguing more a necessary condition than sufficient condition.
+
+## Ashworth et al.'s Unpublished Follow-up
+### Ashworth et al.'s Rebuttal
+
+A talk of necessary condition doesn't help. Consider:
+
+- A medical examiner examines 16 deaths in the previous week.
+- All 16 deaths were *X*-drinkers; none was a non-drinker.
+- Compared to chance, this would occur in 1 in 55,000 trials.
+- Thus, there is a real effect of *X* on mortality.
+
+That sounds convincing until we learn than *X* is water.
+
+### Ashworth et al.'s Rebuttal
+
+Appeals to Pape's "universe" don't help either.
+
+- 1980-1986: Shi'a extremism is a necessary condition (Hezbollah).
+- 1987-2009: Religion is not a necessary condition (Tamil Tigers).
+- 2003--: Occupation/democracy are not necessary either (Pakistan).
+
+We would still know nothing of the likelihood of suicide terrorism, given these antecedent conditions.
+
+# Conclusion
+### Conclusion
+
+Despite its peculiar barbarism, suicide terrorism is goal-oriented and strategic behavior.
+
+- It's an extreme form of Schelling's "rationality of irrationality".
+- It's a statement of motivation by the terror groups.
+- They've also learned its effective relative other strategies.
+
+However, we still don't know the root causes of suicide terror.
+
+- Suicide terror is not the domain of Islamic fundamentalism, nor must it target democracies over territorial occupations.
+
+*Take research design seriously*.
