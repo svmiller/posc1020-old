@@ -272,7 +272,7 @@ Pape's argument of statistical association is of **attributable risk**:
 
 - *AR*(*S* | *O*) = *Pr*(*S* | *O*) - *Pr*(*S* | ~*O*)
 
-In short: Pape is policy prescriptions follow if *Pr*(*S* | *O*) > *Pr*(*S* | ~*O*).
+In short: Pape's policy prescriptions follow if *Pr*(*S* | *O*) > *Pr*(*S* | ~*O*).
 
 - Otherwise, there is no increased risk of suicide terrorism *given* an occupation of territory.
 
